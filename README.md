@@ -1,11 +1,6 @@
-# github-final-project
+# CI/CD Final Project
 
-
-This project is a simple Bash script to calculate simple interest based on:
-- Principal
-- Rate of Interest
-- Time Period
-
-
-
-
+This project demonstrates a complete CI/CD pipeline using:
+- GitHub Actions
+- Tekton Pipelines
+- OpenShift Cluster
