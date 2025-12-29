@@ -1,0 +1,8 @@
+- name: Lint with ESLint
+  run: |
+    npm install
+    npx eslint .
+
+- name: Run unit tests with Jest
+  run: |
+    npm test
