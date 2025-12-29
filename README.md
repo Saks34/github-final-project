@@ -1,2 +1,11 @@
 # github-final-project
-GitHub final project for Coursera Getting Started with Git and GitHub
+
+
+This project is a simple Bash script to calculate simple interest based on:
+- Principal
+- Rate of Interest
+- Time Period
+
+
+
+
